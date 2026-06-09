@@ -78,6 +78,7 @@ public class StudentManagementSystem {
 
                 case 4:
                     System.out.println("Exiting...");
+                    sc.close();
                     return;
 
                 default:
