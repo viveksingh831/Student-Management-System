@@ -80,7 +80,7 @@ public class StudentManagementSystem {
                     System.out.println("Exiting...");
                     sc.close();
                     return;
-
+                    
                 default:
                     System.out.println("Invalid choice!");
             }
